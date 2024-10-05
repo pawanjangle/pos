@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@ag-grid-community/react": "^32.2.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^6.1.1",
