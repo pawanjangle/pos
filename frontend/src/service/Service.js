@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = "http://localhost:5000"
+const baseUrl = "http://13.200.22.71:5000"
 let endPoint = {
     createproduct: "/api/product/create-product",
     getproducts: "/api/product/get-products",
